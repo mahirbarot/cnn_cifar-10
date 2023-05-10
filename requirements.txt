@@ -1,5 +1,7 @@
 numpy==1.24.1
 pandas==1.5.2
+tensorflow==2.12.0
 pandas-stubs==1.5.2.221213
+Pillow==9.4.0
 parso==0.8.3
 streamlit==1.20.0
